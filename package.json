@@ -1,0 +1,14 @@
+{
+  "name": "nfcreproadistance",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Redirection NFC pilotée par config.json, hébergée sur GitHub Pages.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_aide": "Modifie uniquement \"url\", puis clique sur Commit. enabled=false coupe la redirection. forwardQuery=true transmet les paramètres du scan (ex. ?source=nfc) à la destination.",
+  "url": "https://lebofran6.github.io/NFCdemo/",
+  "enabled": true,
+  "forwardQuery": false,
+  "updatedAt": "2026-10-26T12:00:00Z"
+}
